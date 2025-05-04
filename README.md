@@ -16,7 +16,7 @@ A aplicação calcula o **saldo de vitórias** de um jogador e retorna seu **ní
 ## 🚀 Como usar
 
 1. Clone o repositório:
-git clone https://github.com/YnohtDev/calculadora-de-rank/blob/main/desafio-calculadora.js
+git clone https://github.com/codebythony/calculadora-de-rank/blob/main/desafio-calculadora.js
 
 
 2. Execute o arquivo `desafio-calculadora` em um ambiente que suporte JavaScript, como o [Node.js](https://nodejs.org/) ou o console do navegador.
@@ -39,5 +39,5 @@ git clone https://github.com/YnohtDev/calculadora-de-rank/blob/main/desafio-calc
 
 ## ✍️ Autor
 
-Feito com dedicação por **YnohtDev** 🚀  
+Feito com dedicação por **codebythony** 🚀  
 📌 Desafio do curso da **DIO.me**
